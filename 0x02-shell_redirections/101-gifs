@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name "*.gof" -type f -printf
